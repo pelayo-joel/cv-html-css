@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="styles.css">
+	<title>Mon CV fréro</title>
+</head>
+<body>
+	<nav class="navigation">
+		<div class="pages">
+			<ul>
+				<li><a href="cv-pelayo-joel.html" title><font color="#e146f5">Profile</font></a></li>
+				<li><a href="additional-pages\cv-xp-pro.html" title>Expériences professionelle</a></li>
+				<li><a href="additional-pages\cv-formations.html" title>Formations</a></li>
+			</ul>
+		</div>
+	</nav>
+	<div class="profil">
+		<div class="image">
+			<img src="images-src\Image2.jpg">
+		</div>
+		<div class="presentation">
+			<h1>PELAYO Joël Alexandre</h1>
+			<p>Actuellement étudiant à LaPlateforme, j’ai pu développer mes
+				compétences en informatique. Afin de me spécialiser dans une
+				des branches étudiées et continuer mes études, je recherche
+				une alternance où je pourrai approfondir mes compétences dans
+				un milieu professionnel.</p>
+		</div>
+	</div>
+	<div class="about-me">
+		<h2 align=center>A propos de moi</h2>
+		<div class="overview">
+			<div class="column1">
+				<h3>Compétences</h3>
+				<p>Curieux, serviable, résilient au stress, esprit analytique</p>
+				<div class="skills">
+					<h4>Programmation</h4>
+						<div class="bar"><img src="images-src\logos\c.png"><div id="C"></div></div>
+						<div class="bar"><img src="images-src\logos\java.png"><div id="java"></div></div>
+						<div class="bar"><img src="images-src\logos\c-sharp.png"><div id="Csharp"></div></div>
+						<div class="bar"><img src="images-src\logos\python.png"><div id="python"></div></div>
+				</div>
+			</div>
+			<div class="column2">
+				<h3>Centres d'intérêts</h3>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
